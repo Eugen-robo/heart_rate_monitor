@@ -95,5 +95,13 @@
     "require-directory": "^2.1.1",
     "semver": "^5.7.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugen-robo/heart_rate_monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eugen-robo/heart_rate_monitor/issues"
+  },
+  "homepage": "https://github.com/Eugen-robo/heart_rate_monitor#readme",
   "description": ""
 }
